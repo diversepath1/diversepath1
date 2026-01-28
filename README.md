@@ -45,7 +45,7 @@ REST APIs • Database schema design
 PyTorch • NumPy • Matplotlib  
 CNNs • Signal modeling • Regression systems  
 
-####Core CS Foundations  
+#### Core CS Foundations  
 Data Structures & Algorithms  
 Computer Networks  
 Database Management Systems  
