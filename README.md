@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hey, I'm Priyansh</h1>
+<h3 align="center">ECE Student | DSA Enthusiast | Math-driven Problem Solver</h3>
+
 Welcome. My stats are available at the bottom.
-#Interested in building scalable systems, contributing to open source, and working at the intersection of mathematics and technology.
+Interested in building scalable systems, contributing to open source, and working at the intersection of mathematics and technology.
 
 I enjoy designing systems from first principles — whether it's backend architectures, signal processing pipelines, or learning-based models grounded in structure.
 
