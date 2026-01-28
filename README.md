@@ -23,32 +23,32 @@ Interested in building scalable systems, contributing to open source, and workin
 I enjoy designing systems from first principles — whether it's backend architectures, signal processing pipelines, or learning-based models grounded in structure.
 
 Focus Areas
-Backend Engineering (APIs, system design, databases)
-C++ and performance-oriented programming
-Machine Learning with structural bias
-Signal processing + learned models
-Open-source contribution
-Systems thinking over surface-level abstractions
-Technical Stack
-Languages
-C++ • C • Python
+Backend Engineering (APIs, system design, databases)  
+C++ and performance-oriented programming  
+Machine Learning with structural bias  
+Signal processing + learned models  
+Open-source contribution  
+Systems thinking over surface-level abstractions  
+Technical Stack  
+Languages  
+C++ • C • Python  
 
-Backend & Databases
-Node.js (learning / building)
-MongoDB • MySQL
-REST APIs • Database schema design
+Backend & Databases  
+Node.js (learning / building)  
+MongoDB • MySQL  
+REST APIs • Database schema design  
 
-Machine Learning & Scientific Computing
-PyTorch • NumPy • Matplotlib
-CNNs • Signal modeling • Regression systems
+Machine Learning & Scientific Computing  
+PyTorch • NumPy • Matplotlib  
+CNNs • Signal modeling • Regression systems  
 
-Core CS Foundations
-Data Structures & Algorithms
-Computer Networks
-Database Management Systems
-Operating Systems (coursework)
+Core CS Foundations  
+Data Structures & Algorithms  
+Computer Networks  
+Database Management Systems  
+Operating Systems (coursework)  
 
-Selected Projects
+Selected Projects  
 1. Neural Adaptive Spectral Estimator
 Comparative study between FFT-based frequency estimation and a 1D CNN trained on raw noisy signals.
 Explores inductive bias in neural architectures and structured spectral modeling.
