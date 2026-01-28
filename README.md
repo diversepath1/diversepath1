@@ -26,10 +26,9 @@ I enjoy designing systems from first principles — whether it's backend archite
 ### Focus Areas 
 - Backend Engineering (APIs, system design, databases)  
 - C++ and performance-oriented programming  
-- Machine Learning with structural bias  
-- Signal processing + learned models  
+- Machine Learning with structural bias    
 - Open-source contribution  
-- Systems thinking over surface-level abstraction
+- Systems thinking over surface-level abstraction   
 
 ### Technical Stack
 
@@ -46,10 +45,9 @@ PyTorch • NumPy • Matplotlib
 CNNs • Signal modeling • Regression systems  
 
 #### Core CS Foundations  
-Data Structures & Algorithms  
-Computer Networks  
+Data Structures & Algorithms   
 Database Management Systems  
-Operating Systems (coursework)  
+Operating Systems (coursework)   
 
 ### Selected Projects  
 #### 1. Neural Adaptive Spectral Estimator
@@ -70,7 +68,6 @@ Repository: https://github.com/diversepath1/finalSIH
 - Strengthening backend engineering fundamentals
 - Writing cleaner, modular C++
 - Exploring hybrid DSP + ML systems
-- Preparing for long-term placement roles
 
 ---
 
