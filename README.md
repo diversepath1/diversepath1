@@ -46,8 +46,7 @@ CNNs • Signal modeling • Regression systems
 
 #### Core CS Foundations  
 Data Structures & Algorithms   
-Database Management Systems  
-Operating Systems (coursework)   
+Database Management Systems     
 
 ### Selected Projects  
 #### 1. Neural Adaptive Spectral Estimator
