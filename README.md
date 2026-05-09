@@ -21,14 +21,11 @@ Here are some ideas to get you started:
 
 Interested in building scalable systems, contributing to open source, and working at the intersection of mathematics and technology.
 
-I enjoy designing systems from first principles — whether it's backend architectures, signal processing pipelines, or learning-based models grounded in structure.
-
 ### Focus Areas 
 - Backend Engineering (APIs, system design, databases)  
 - C++ and performance-oriented programming  
 - Machine Learning with structural bias    
 - Open-source contribution  
-- Systems thinking over surface-level abstraction   
 
 ### Technical Stack
 
@@ -82,8 +79,3 @@ Repository: https://github.com/diversepath1/finalSIH
 GitHub: https://github.com/diversepath1  
 LinkedIn: https://www.linkedin.com/in/priyansh-shrivastava-6b8568281/   
 
----
-
-### Philosophy  
-I prefer systems that are explainable, scalable, and grounded in solid fundamentals.
-If something works, I want to understand why.
