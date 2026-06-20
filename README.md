@@ -1,5 +1,5 @@
 ## Yahallo!
-Welcome to my profile. If my submission heatmap isn't green today, i'm definitely building something. or reading. or failing at guitar. or playing games. you get the point ~ 
+Welcome to my profile. If my contribution heatmap isn't green today, i'm definitely building something. or reading. or failing at guitar. or playing games. you get the idea.
 
 <!--
 **diversepath1/diversepath1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +33,7 @@ Interested in building practical projects, contributing to open source, and work
 C++ • C • Python   
 
 #### Backend & Databases  
-Node.js (learning / building)  
+Node.js
 MongoDB • MySQL  
 REST APIs • Database schema design  
 
