@@ -1,5 +1,5 @@
 ## Yahallo!
-This profile marks the beginning of my professional journey toward building depth in tech. 
+Welcome to my profile. If my submission heatmap isn't green today, i'm definitely building something. or reading. or failing at guitar. or playing games. you get the point ~ 
 
 <!--
 **diversepath1/diversepath1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
