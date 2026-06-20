@@ -1,5 +1,5 @@
-## Welcome aboard. 
-This profile marks the beginning of my professional journey toward building depth in technology. 
+## Yahallo!
+This profile marks the beginning of my professional journey toward building depth in tech. 
 
 <!--
 **diversepath1/diversepath1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 <h3 align="center"> Electronics Undergrad | DSA Enthusiast | Math-driven Problem Solver </h3>
 
 
-Interested in building scalable systems, contributing to open source, and working at the intersection of mathematics and technology.
+Interested in building practical projects, contributing to open source, and working at the intersection of mathematics and technology.
 
 ### Focus Areas 
 - Backend Engineering (APIs, system design, databases)  
-- C++ and performance-oriented programming  
+- C++ and competitive programming  
 - Machine Learning with structural bias    
 - Open-source contribution  
 
 ### Technical Stack
 
 #### Languages  
-C++ • C • Python  
+C++ • C • Python   
 
 #### Backend & Databases  
 Node.js (learning / building)  
